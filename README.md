@@ -1,9 +1,14 @@
-### Hi there 👋
+Hi there~ 👋 I'm front-end, UX/Ui developer 🍀
+Sometime I devleop back-end too!(like Full-stack) but I prefer Front-end. 💕
 
-<!--
-**heesun1116/heesun1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run every day! 🏃🏻‍♀️
+I love making creative and beautiful things 🦄
 
-Here are some ideas to get you started:
+### Skills 💪
+
+## Platforms & Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
