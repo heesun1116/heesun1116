@@ -1,8 +1,9 @@
-Hi there~ 👋 I'm front-end, UX/Ui developer 🍀
-
+Hi there~ 👋 I'm front-end, UX/Ui developer 🍀 <br>
 Sometime I devleop back-end too!(like Full-stack) but I prefer Front-end. 💕
 
-I run every day! 🏃🏻‍♀️
+
+
+I run every day! 🏃🏻‍♀️<br>
 I love making creative and beautiful things 🦄
 
 ### Skills 💪
